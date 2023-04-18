@@ -1,0 +1,2 @@
+# LicenseKeyVmareWorkstation
+VmwareWorkstation License Key
