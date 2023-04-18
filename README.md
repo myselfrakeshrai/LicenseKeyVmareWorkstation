@@ -4,7 +4,9 @@ VmwareWorkstation License Key
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 
 Sub to me on youtube pls - PurpleVibe32
-if you want more keys - call my bot on telegram. @purector_bot (THE BOT WONT REPLY ANYMORE) - Or: https://cdn.discordapp.com/attachments/1040615179894935645/1074016373228978277/keys.zip - the password in the zip is 102me.
+if you want more keys - call my bot on telegram. @purector_bot (THE BOT WONT REPLY ANYMORE) 
+- Or: https://cdn.discordapp.com/attachments/1040615179894935645/1074016373228978277/keys.zip 
+- the password in the zip is 102me.
 ---
 This gist can get off at any time.
 PLEASE, DONT COPY THIS. IF YOU FORK IT, DONT EDIT IT.
